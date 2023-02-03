@@ -1,21 +1,21 @@
-# poetry init (n-n-y)
+## poetry init (n-n-y)
 
-# poetry add django
+## poetry add django
 
-# poetry add djangorestframework
+## poetry add djangorestframework
 
-# poetry add djangorestframework-simplejwt
+## poetry add djangorestframework-simplejwt
 
-# poetry shell
+## poetry shell
 
-# django-admin startproject teste .       
+## django-admin startproject teste .       
 
-# django-admin startapp core
+## django-admin startapp core
 
-# python3 manage.py migrate
+## python3 manage.py migrate
 
-# python3 manage.py runserver
+## python3 manage.py runserver
 
-# python3 manage.py createsuperuser
+## python3 manage.py createsuperuser
 
-# python3 manage.py makemigrations
+## python3 manage.py makemigrations
